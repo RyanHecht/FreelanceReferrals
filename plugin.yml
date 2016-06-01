@@ -1,0 +1,11 @@
+name: Referrals
+main: net.ryanhecht.referrals.Main
+version: 1.0
+description: Refer your friends!
+author: RyanHecht_
+depend: [OnTime]
+commands:
+  referredby:
+  acceptreferral:
+  referrewards:
+  referrallist:
